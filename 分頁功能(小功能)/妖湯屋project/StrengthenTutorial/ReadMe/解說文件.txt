@@ -1,0 +1,7 @@
+新手強化，升級，組隊引導的功能。
+
+有三個不同的tab。
+
+由StrengthenTutorialManager.cs統一管理(StrengthGuidelines.cs，RecommendTeam.cs,CommonQuestion.cs)。
+
+StrengthenTutorialNetwork負責處理response，儲存在StrengthenTutorialManager.cs並反饋到view上。

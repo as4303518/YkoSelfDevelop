@@ -1,0 +1,11 @@
+SevenDayGoals 是類似於任務與七日獎勵功能的系統。
+
+功能會根據每周(後端回傳的uint)進行模板變換，目前有三總不同的模板。
+
+
+
+全部統一由SevenDayGoalsController進行判斷與執行。
+
+將後端回傳的message分配給對應的View。(SevenDayGoalsView，AdventureNoteView，MagicBoxSecretView)
+
+再由View進行UI顯示。
