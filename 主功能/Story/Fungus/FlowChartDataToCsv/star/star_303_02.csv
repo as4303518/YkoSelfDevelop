@@ -1,0 +1,68 @@
+﻿$$Menu$$$Say$$$$$$$$$$
+BlockName$CommandType$text$targetBlock$description$character$nameText$loop$fadeWhenDone$aAnimation$aSkin$voiceOverClip$aFinishDefaultAnimation$mouthState$storyText$description
+star_303_02_01$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_001$本場景包含以下成人向元素，如:
+star_303_02_01$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_002$男女性行為露骨描述、暴力或犯罪、強制行為等。
+star_303_02_01$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_003$為避免引起閱讀後不適，請謹慎選擇是否閱讀。
+star_303_02_01$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_004$我屏氣凝神地聽著裏頭的交談聲，越聽眉頭皺的越緊......
+star_303_02_01$Say$$$$NPC$Human Traffickers$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_005$「各位夫人，這一個獵物可不是普通的人......」
+star_303_02_01$Say$$$$NPC$Human Traffickers$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_006$「此人是修羅天的一員，所以在體力和能力上，絕對能夠讓各位夫人們滿意。」
+star_303_02_01$Say$$$$NPC$Rich Person 02$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_007$「修羅天？是那個輝夜姬的手下嗎？這樣不會出事吧？」
+star_303_02_01$Say$$$$NPC$Human Traffickers$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_008$「別擔心，只要看管住了，事後讓人偽造個屍體什麼的刻意讓他們發現就好。」
+star_303_02_01$Say$$$$NPC$Human Traffickers$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_009$「在迷藥的效用下也不用擔心他有能力反抗，恐怕此時此刻，他都還不知道自己為什麼出現在這裡呢......」
+star_303_02_01$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_010$屋內傳來一陣歡愉的笑聲，聽得出來這些富婆的肆無忌憚。
+star_303_02_01$Say$$$$char1$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_011$（這些人可還真是膽大妄為呢......）
+star_303_02_01$Say$$$$char1$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_012$（明知是我下屬還敢動手，如果不是太蠢就是仗著後台硬吧。）
+star_303_02_01$Say$$$$NPC$Rich Person 01$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_013$「那妳說吧......這次打算開價多少？」
+star_303_02_01$Say$$$$NPC$Human Traffickers$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_014$「呵呵、不瞞各位夫人說，這次我冒著這麼巨大的風險......」
+star_303_02_01$Say$$$$NPC$Human Traffickers$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_015$「怕是之後也要躲一陣子，避避風頭......所以這價錢方面，需要比以往來得更豐厚些。」
+star_303_02_01$Say$$$$NPC$Human Traffickers$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_016$「畢竟要是我被抓住了，那各位夫人們的身份怕也是會跟著曝光......」
+star_303_02_01$Say$$$$NPC$Rich Person 02$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_017$「看來這是在威脅我們啊？」
+star_303_02_01$Say$$$$NPC$Human Traffickers$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_018$「不敢、不敢，就是希望夫人們能夠多多贊助我躲藏的費用。」
+star_303_02_01$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_019$忽然砰的一聲──像是有個重物被丟在桌上所發出的聲音。
+star_303_02_01$Say$$$$NPC$Rich Person 01$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_020$「這些金幣夠妳躲藏到人類世界去好幾年......走吧！」
+star_303_02_01$Say$$$$NPC$Human Traffickers$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_021$「謝謝各位夫人！請『慢慢享用』。我這就告退。」
+star_303_02_01$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_022$一聽見這人口販子要走出來，我便示意躲在轉角處的近習雜役和護衛們戒備，等我指令。
+star_303_02_01$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_023$當那女人從屋內開門走出時，便被我一把壓制住，並且堵上她的嘴。
+star_303_02_01$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_024$同時踹開尚未關閉的房門，使得門板碰撞出巨大聲響。
+star_303_02_01$Say$$$$NPC$Rich Person 01$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_025$「是誰做的好事！外面發生什麼事了！？」
+star_303_02_01$Say$$$$NPC$Rich Person 02$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_026${punch=0.08,0.2}「大膽！妳竟敢隨便闖入！」
+star_303_02_02$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_027$當我一打開房門時，除了耳邊聽見那些富婆們難聽的喊叫聲外......
+star_303_02_02$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_028$竟然還看到陷入昏迷的蒼犽，整個人衣衫不整、四肢被綑綁，被隨意地扔在地上，任一群買家隨意觸碰......
+star_303_02_02$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_029$而屋內空氣中滿是已點燃的媚香，其濃烈程度，簡直要人陷入喪心病狂的地步。
+star_303_02_02$Say$$$$char1$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_030$「把妳們的髒手，給我從他身上拿開！」
+star_303_02_02$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_031$我喝斥著這些富婆們，阻止她們繼續觸碰蒼犽的身體。
+star_303_02_02$Say$$$$NPC$Rich Person 01$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_032$「保鑣、保鑣！你們是怎麼做事的？還不快把這瘋女人給我趕出去！」
+star_303_02_02$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_033$當保鏢聽見呼叫聲，正要衝上前來時......
+star_303_02_02$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_034$我放出自身妖力，震懾住屋內所有人。
+star_303_02_02$Say$$$$char1$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_035${punch=0.08,0.2}「我乃極樂天之主輝夜姬！所有人都給我站在原地不准動！」
+star_303_02_02$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_036$不確定是因為釋出妖力的關係，還是我的『自我介紹』，總之屋內所有人驚呆在原地。
+star_303_02_02$Say$$$$char1$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_037$「可以進來抓人了！」
+star_303_02_02$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_038$我對著走廊外喊著，暗藏的近習雜役和護衛們一擁而上，連同我手中的人口販子，一併押解出去。
+star_303_02_02$Say$$$$char1$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_039$「立刻通知修羅天來把這些現行犯帶回。」
+star_303_02_02$Say$$$$NPC$waiter02$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_040${punch=0.08,0.2}「是！」
+star_303_02_02$Say$$$$NPC$waiter02$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_041$「那蒼犽大人呢？」
+star_303_02_02$Say$$$$char1$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_042$「他一時半刻大概也醒不過來，我留在這裡陪他。」
+star_303_02_02$Say$$$$char1$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_043$「沒有我的命令，任何人不許進來打擾。」
+star_303_02_02$Say$$$$NPC$waiter02$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_044$「是。」
+star_303_02_02$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_045$等到所有一概人等通通撤出房間後，室內陷入一片寂靜。
+star_303_02_02$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_046$我上前去，輕拍著蒼犽的肩。
+star_303_02_02$Say$$$$char1$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_047${punch=0.08,0.2}「喂──蒼犽......醒醒、醒醒啊！」
+star_303_02_02$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_048$蒼犽卻是一點反應都沒有，我只好用力拎起他的衣領，試圖用更粗魯的方式喚醒他。
+star_303_02_02$Say$$$$char1$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_049${punch=0.08,0.2}「喂──還睡！你這笨蛋快給我醒來！聽到沒有！」
+star_303_02_02$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_050$就在我使出全身的力氣一陣瘋狂搖晃之後，這頭兇獸這才有點反應。
+star_303_02_02$Say$$$$char301$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_051$「唔、呼──」
+star_303_02_02$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_052$終於好不容易把蒼犽這頭兇獸給叫醒了──
+star_303_02_02$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_053$雖然他本人好像還有點迷迷糊糊的......但至少眼神和我對上了。
+star_303_02_02$Say$$$$char1$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_054$「醒了沒？醒了就應我一聲。」
+star_303_02_02$Say$$$$char301$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_055$「恩、醒了！醒了！本大爺又沒聾。」
+star_303_02_02$Say$$$$char1$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_056$「哼、耳朵沒聾，但我懷疑你眼瞎......」
+star_303_02_02$Say$$$$char1$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_057$「居然隨隨便便就被女人拐了，連三歲小妖都知道不能跟陌生人走。」
+star_303_02_02$Say$$$$char301$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_058$「哪裡隨隨便便？！本大爺這不是在認真工作調查嘛！」
+star_303_02_02$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_059$他企圖反駁，但手腕被束縛帶綁住，扣環撞擊到桿子上，發出陣陣清脆的聲音。
+star_303_02_02$Say$$$$char301$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_060$「還有輝夜妳把我綁起來幹嘛？」
+star_303_02_02$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_061$此刻的他才發現自己的處境，臉上寫滿不悅。
+star_303_02_02$Say$$$$char1$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_062$「我把你綁起來？我可沒那種興趣！」
+star_303_02_02$Say$$$$char1$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_063$「還不快點感謝我！要不是我及時趕到，你真的就要變成那些富婆們的玩物！」
+star_303_02_02$Say$$$$char301$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_064$「什麼玩物！本大爺才不會這麼容易被玩呢！」
+star_303_02_02$Say$$$$char301$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_065$「還有她們是誰？本大爺只記得調查了一個很可疑的女人，然後......然後發生什麼事了？」
+star_303_02_02$Say$$$$char1$$FALSE$FALSE$$$$$DidNotPlay$Star_303_02_066$「......你這個性還能安然活到現在真是個天大的奇蹟。」

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+  m_Name: cg2007_SkeletonData
+  m_EditorClassIdentifier: 
+  atlasAssets:
+  - {fileID: 11400000, guid: 2e36c700991c5a34db783e6853d25db8, type: 2}
+  scale: 0.01
+  skeletonJSON: {fileID: 4900000, guid: 36dee90968935204f91f5055e550eed0, type: 3}
+  isUpgradingBlendModeMaterials: 0
+  blendModeMaterials:
+    requiresBlendModeMaterials: 1
+    applyAdditiveMaterial: 1
+    additiveMaterials:
+    - pageName: cg2007_4.png
+      material: {fileID: 2100000, guid: 1d5583d8ea7852d4eb35885fe57f829a, type: 2}
+    multiplyMaterials:
+    - pageName: cg2007.png
+      material: {fileID: 2100000, guid: ef930190b2efa3c46b3820443c6ad02a, type: 2}
+    - pageName: cg2007_2.png
+      material: {fileID: 2100000, guid: 8551a691bb44ad1469b9887653a2cd51, type: 2}
+    screenMaterials:
+    - pageName: cg2007.png
+      material: {fileID: 2100000, guid: e3a05aaa350f6ac4aa23ebe3c67c914a, type: 2}
+  skeletonDataModifiers: []
+  fromAnimation: []
+  toAnimation: []
+  duration: []
+  defaultMix: 0.2
+  controller: {fileID: 0}

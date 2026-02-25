@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &839848814861568512
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7734351874242919289}
+  - component: {fileID: 2978162704664475455}
+  m_Layer: 0
+  m_Name: char1451
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &7734351874242919289
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 839848814861568512}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2978162704664475455
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 839848814861568512}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25fb867d2049d41f597aefdd6b19f598, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nameText: char1451
+  nameColor: {r: 1, g: 1, b: 1, a: 1}
+  SayDialogNameColor: {r: 0.7774455, g: 0.2117647, b: 1, a: 1}
+  SayDialogNameBgSprite: {fileID: 21300000, guid: ee5f5cce3c2d94240a45070f3979043d, type: 3}
+  soundEffect: {fileID: 0}
+  portraits: []
+  portraitsFace: 0
+  setSayDialog: {fileID: 0}
+  charaAvatar: {fileID: -199148880, guid: 5cc4b362f7c94c540b69fb2c75efd63f, type: 3}
+  description: "\u7389\u6FA1\u898B\u6DF1\u96EA"
+  mSet:
+    Scale: {x: 1, y: 1}
+    Offest: {x: 0, y: -800, z: 0}
+    Facing: 0
+  mSkeletonGraphic: {fileID: 6181380412164200491, guid: 10acc908534a03e4296b6494b60817c0, type: 3}
+  DefaultSkin: 

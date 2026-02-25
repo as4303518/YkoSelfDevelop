@@ -1,0 +1,69 @@
+﻿$$Menu$$$Say$$$$$$$$$$
+BlockName$CommandType$text$targetBlock$description$character$nameText$loop$fadeWhenDone$aAnimation$aSkin$voiceOverClip$aFinishDefaultAnimation$mouthState$storyText$description
+star_1001_01_01$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_001$為了處理宮務司相關的王族事務、並確認赤月王室舊宮殿的古蹟修繕作業，
+star_1001_01_01$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_002$我久違地前往赤月鬼族的舊宮殿，同時在兒時居住的地方停留數日。
+star_1001_01_01$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_003$由於現今存活在世的王族成員並不多，核心王室成員更僅有我跟久遠親王，
+star_1001_01_01$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_004$這裡便一貫很冷清、也少有人走動。
+star_1001_01_01$Say$$$$char1$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_005$「嘖，這麼大的空間老是放著養蚊子，又要花錢和人力維護管理......」
+star_1001_01_01$Say$$$$char1$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_006$「要不是那些古板的老臣囉哩囉嗦地死命阻攔，我就開放更多區塊用作觀光或商業使用了。」
+star_1001_01_01$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_007$沿著宮殿外的石磚道穿行，我一面看著占地遼闊的宮殿建築群，一面在心裡腹誹著
+star_1001_01_01$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_008$突然間，附近傳來巡邏的宮殿護衛交談的聲音：
+star_1001_01_01$Say$$$$NPC$Old Palace Guard 01$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_009$「今天真是難得的日子，這宮殿的主人們，居然同時都在。」
+star_1001_01_01$Say$$$$NPC$Old Palace Guard 02$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_010$「是啊，雖然回來的目的不同，但公主跟親王都回宮殿裡，實在有夠稀罕。」
+star_1001_01_01$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_011$兩名護衛一邊摸魚、一邊八卦著，
+star_1001_01_01$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_012$並且提到了我與『另一位讓人在意的宮殿主人』。
+star_1001_01_01$Say$$$$NPC$Old Palace Guard 01$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_013$「公主其實不算稀客，畢竟她偶爾會回來處理事務，日暮宮親王出現在這裡才算難得一見。」
+star_1001_01_01$Say$$$$NPC$Old Palace Guard 01$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_014$「一年也就只有那麼一次吧？還是為了回來拜祭亡母......也就是先代鬼王的側室夫人。」
+star_1001_01_01$Say$$$$NPC$Old Palace Guard 02$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_015$「公主和親王向來關係不和，也不知道這樣對他們兩人算湊巧，還是不湊巧。」
+star_1001_01_01$Say$$$$NPC$Old Palace Guard 01$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_016$「哈哈，你想太多了！這宮殿那麼大，公主寢殿跟那位聽聞不受寵的側室夫人的別院又隔得老遠。」
+star_1001_01_01$Say$$$$NPC$Old Palace Guard 02$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_017$「搞不好直到這兩位離開，他們都還碰不到面呢。」
+star_1001_01_01$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_018$我停下腳步，隨著兩名護衛的身影逐漸遠去，
+star_1001_01_01$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_019$腦海裡關於那位側室夫人的記憶，也被勾了起來......
+star_1001_01_01$Say$$$$char1$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_020$（久遠親王的母親，也就是我祖父大人的側室夫人，聽說本來也是青鬼族的小貴族之女。）
+star_1001_01_01$Say$$$$char1$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_021$（在老臣們告訴我的陳年往事裡，那名側室夫人最初是以見習禮儀的名義，擔任我祖母大人的侍女的。）
+star_1001_01_01$Say$$$$char1$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_022$（但後來生下孩子後，便一躍成為祖父大人的側室了。）
+star_1001_01_01$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_023$這在妖族貴族裡也不是什麼少見的情況，高位貴族一夫多妻、一妻多夫本來就是常態。
+star_1001_01_01$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_024$但壞就壞在，祖父母兩人青梅竹馬、夫妻感情甚篤......
+star_1001_01_01$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_025$經此一事後，祖母大人就跟祖父大人產生嫌隙，
+star_1001_01_01$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_026$加上據聞那位夫人使用了一些特殊的手段，才得以在祖母生病時爬上祖父的床、與之發生關係並懷孕。
+star_1001_01_01$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_027$也難怪祖父大人事後非常嫌惡側室夫人，連帶疏遠她所生下的久遠親王了。
+star_1001_01_01$Say$$$$char1$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_028$（雖然我並不想議論長輩不堪的陳年往事，但現在想起來......）
+star_1001_01_01$Say$$$$char1$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_029$（我那個討人厭的叔父，童年應該過得不怎麼好。）
+star_1001_01_01$Say$$$$char1$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_030$（對他來說......這座宮殿裡，或許有許多不愉快的記憶。）
+star_1001_01_01$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_031$遙遠記憶裡的一角，初次見到久遠親王的回憶復甦。
+star_1001_01_01$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_032$正是我如今走到的這個位置，此地離那位側室夫人居住的別院並不遠。
+star_1001_01_01$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_033$也是在那時，我第一次見到久遠親王──
+star_1001_01_02$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_034$多年以前。
+star_1001_01_02$Say$$$$char1$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_035$「球球，父親大人給我的球球──跑到哪裡去了呢？」
+star_1001_01_02$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_036$穿過石磚道，我來到種滿藍紫色龍膽花的院子裡，四處尋覓滾落到這裡的皮球。
+star_1001_01_02$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_037$燦爛的陽光下，皮球光滑的材質反射出刺眼的光，我很快便找到了它。
+star_1001_01_02$Say$$$$char1$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_038$「啊！在那裡！」
+star_1001_01_02$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_039$邁開小短腿跑向皮球的同時，我看見院子裡站著一位表情陰鬱的陌生青年。
+star_1001_01_02$Say$$$$char1$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_040$（他是誰？他看起來好像很不開心......）
+star_1001_01_02$Say$$$$char1001$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_041${punch=0.08,0.2}「──什麼人？」
+star_1001_01_02$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_042$青年被皮球的動靜驚到，敏銳地回頭，
+star_1001_01_02$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_043$我的目光猝不及防撞進那雙冰藍色的眼睛裡，呆愣了一下。
+star_1001_01_02$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_044$隨後又想起母親大人教我的禮儀，於是壯著膽子，主動向他搭話。
+star_1001_01_02$Say$$$$char1$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_045$「您好，我是%NAME%。」
+star_1001_01_02$Say$$$$char1$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_046$「我是來找球球的。」
+star_1001_01_02$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_047$掬了一個也不知道稱不稱得上標準的躬，我輕聲地說明自己的來意。
+star_1001_01_02$Say$$$$char1001$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_048$「......是妳啊。」
+star_1001_01_02$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_049$雖然我並不認得他，但他卻像是知道我的模樣。
+star_1001_01_02$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_050$他沒有回答，只是彎下腰撿起那顆球朝我走來，接著膝蓋微蹲，像是要把球遞給我......
+star_1001_01_02$Say$$$$char1$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_051$「大哥哥，要一起玩球球嗎？」
+star_1001_01_02$Say$$$$char1$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_052$「%NAME%不開心的時候，就會玩球球、唱歌，或者......」
+star_1001_01_02$Say$$$$char1001$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_053$「我......」
+star_1001_01_02$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_054$我還沒有說完，身後便響起一陣凌亂的腳步聲，打斷了我們的交談。
+star_1001_01_02$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_055$我甚至還沒接回皮球，便被人強制抱了起來。
+star_1001_01_02$Say$$$$NPC$Old Palace Guard 01$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_056$「向親王殿下問安，我們是前來帶回公主的。」
+star_1001_01_02$Say$$$$NPC$Old Palace Guard 02$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_057$「請見諒！公主年幼無知，不是有意打攪您......」
+star_1001_01_02$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_058$一群負責照顧並保護我的護衛叔叔和阿姨們臉色蒼白，惶恐地跟眼前的青年行禮。
+star_1001_01_02$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_059$還沒來得及弄清楚狀況，我便被簇擁著帶離原地。
+star_1001_01_02$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_060$他只是漠然地站在原處，注視眾人離去，很快地便背過身不再多予理會這陣騷亂。
+star_1001_01_02$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_061$我也是那天之後才知道，青年是我父親大人的弟弟，也就是我的叔父。
+star_1001_01_02$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_062$我遺憾著沒能邀請他一起玩遊戲，詢問父親大人有關叔父的事。
+star_1001_01_02$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_063$父親大人沒有回答，只是嘆了口氣、笑著摸摸我的頭。
+star_1001_01_02$Say$$$$char1$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_064$（當時的我並不知道父親為何嘆氣，也不懂久遠的表情究竟代表什麼......）
+star_1001_01_02$Say$$$$char1$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_065$（現在雖然有些懂了，不過──我也不再可能像當年那樣，無知又莽撞地和他相處說話。）
+star_1001_01_02$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_066$思緒從回憶中抽離，我正自嘲著自己當年的確冒昧打擾到人家，而且還偏偏是撞上他心情正糟的時候......
+star_1001_01_02$Say$$$$Narrator$$FALSE$FALSE$$$$$DidNotPlay$Star_1001_01_067$說巧不巧，這條充滿複雜回憶的路的盡頭，出現了我熟悉且避之唯恐不及的人影。
